@@ -25,8 +25,8 @@ It includes functionalities for creating, browsing, and removing albums, as well
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website.git
-    cd Spotify-Clone-MERN-Website
+    git clone https://github.com/GayatriYaul/Spotify-Clone.git
+    cd Spotify-Clone-MERN
     ```
 
 2. Set up environment variables:
@@ -63,21 +63,3 @@ It includes functionalities for creating, browsing, and removing albums, as well
 1. Open your browser and navigate to `http://localhost:5173`.
 2. Create new albums and songs on the Spotify Admin page.
 3. Browse albums and songs, create playlists, and enjoy music.
-
-## Screenshot
-
-### Admin Add Song Page
-![Screenshot_1](https://github.com/user-attachments/assets/a6068724-71a5-49ef-99d7-419c215f94ae)
-
-### Admin Song List Page
-![Screenshot_2](https://github.com/user-attachments/assets/5ffb918c-27ec-4db5-8855-81b83d1d5725)
-
-### Home Page
-![Screenshot_3](https://github.com/user-attachments/assets/b4ead4c4-d267-495a-ab57-7f9c5006b340)
-
-### Album Page
-![Screenshot_4](https://github.com/user-attachments/assets/33e1dcdb-f794-4b1e-82cc-3c588c4b23c1)
-
-## References
-
-I used [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev) to develop this project. Thank you for the useful content.
